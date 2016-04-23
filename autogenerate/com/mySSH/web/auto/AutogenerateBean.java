@@ -1,6 +1,5 @@
 package com.mySSH.web.auto;
 
-
 /**
  * 生成bean的Dao,DaoImpl,Service,ServiceImpl,Controller<br>
  * 不用时可删除
@@ -11,7 +10,7 @@ package com.mySSH.web.auto;
  * BeanUtils.beanTool(User.class);
  * </code>
  * 
- * @date 2014-04-14
+ * @date 2016-04-14
  * @author wangd
  *
  */
